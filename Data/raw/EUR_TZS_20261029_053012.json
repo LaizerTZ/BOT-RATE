@@ -1,0 +1,272 @@
+[
+  {
+    "date": "2026-09-14",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 3061.3264
+  },
+  {
+    "date": "2026-09-15",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 3045.2918
+  },
+  {
+    "date": "2026-09-16",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 3045.2918
+  },
+  {
+    "date": "2026-09-17",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 3048.8172
+  },
+  {
+    "date": "2026-09-18",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 3047.3357
+  },
+  {
+    "date": "2026-09-19",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 3034.8985
+  },
+  {
+    "date": "2026-09-20",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 3028.6637
+  },
+  {
+    "date": "2026-09-21",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 3028.6637
+  },
+  {
+    "date": "2026-09-22",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 3028.6637
+  },
+  {
+    "date": "2026-09-23",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 3033.3796
+  },
+  {
+    "date": "2026-09-24",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 3029.903
+  },
+  {
+    "date": "2026-09-25",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 3020.6154
+  },
+  {
+    "date": "2026-09-26",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 3008.1396
+  },
+  {
+    "date": "2026-09-27",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 3016.9721
+  },
+  {
+    "date": "2026-09-28",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 3016.9721
+  },
+  {
+    "date": "2026-09-29",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 3016.9721
+  },
+  {
+    "date": "2026-09-30",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 3004.1817
+  },
+  {
+    "date": "2026-10-01",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 2997.6377
+  },
+  {
+    "date": "2026-10-02",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 3001.6701
+  },
+  {
+    "date": "2026-10-03",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 2981.6333
+  },
+  {
+    "date": "2026-10-04",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 2969.4195
+  },
+  {
+    "date": "2026-10-05",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 2969.4195
+  },
+  {
+    "date": "2026-10-06",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 2969.4195
+  },
+  {
+    "date": "2026-10-07",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 2955.8179
+  },
+  {
+    "date": "2026-10-08",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 2966.0679
+  },
+  {
+    "date": "2026-10-09",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 2943.9243
+  },
+  {
+    "date": "2026-10-10",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 2944.4903
+  },
+  {
+    "date": "2026-10-11",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 2945.2825
+  },
+  {
+    "date": "2026-10-12",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 2945.2825
+  },
+  {
+    "date": "2026-10-13",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 2945.2825
+  },
+  {
+    "date": "2026-10-14",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 2941.9369
+  },
+  {
+    "date": "2026-10-15",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 2946.2446
+  },
+  {
+    "date": "2026-10-16",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 2946.2446
+  },
+  {
+    "date": "2026-10-17",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 2950.6742
+  },
+  {
+    "date": "2026-10-18",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 2961.2842
+  },
+  {
+    "date": "2026-10-19",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 2961.2842
+  },
+  {
+    "date": "2026-10-20",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 2961.2842
+  },
+  {
+    "date": "2026-10-21",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 2958.4471
+  },
+  {
+    "date": "2026-10-22",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 2963.7053
+  },
+  {
+    "date": "2026-10-23",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 2961.8094
+  },
+  {
+    "date": "2026-10-24",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 2952.3599
+  },
+  {
+    "date": "2026-10-25",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 2953.827
+  },
+  {
+    "date": "2026-10-26",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 2953.827
+  },
+  {
+    "date": "2026-10-27",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 2950.7473
+  },
+  {
+    "date": "2026-10-28",
+    "base": "EUR",
+    "quote": "TZS",
+    "rate": 2950.7473
+  }
+]

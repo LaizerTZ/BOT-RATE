@@ -1,0 +1,14 @@
+# Secrets - never upload
+.env
+
+# Python environment and caches
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Working drafts
+main_draft.py
+main_draft.txt
+
+Logs/*.log

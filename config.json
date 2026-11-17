@@ -1,0 +1,38 @@
+
+{
+  "api": {
+    "base_url": "https://api.frankfurter.dev/v2",
+    "provider": "BOTA",
+    "timeout_seconds": 15
+  },
+  "pairs": [
+    {"base": "USD", "quote": "TZS"},
+    {"base": "EUR", "quote": "TZS"},
+    {"base": "GBP", "quote": "TZS"}
+  ],
+  "history_days": 30,
+  "history_start_date": "2026-01-01",
+  "retry": {
+    "max_attempts": 4,
+    "base_delay_seconds": 1
+  },
+  "alerts": {
+    "daily_change_percent": 0.5,
+    "short_ma_window": 5,
+    "long_ma_window": 20
+  },
+  "folders": {
+    "data": "Data",
+    "raw": "Data/raw",
+    "logs": "Logs",
+    "charts": "charts",
+    "reports": "Reports"
+  },
+  "files": {
+    "database": "Data/fx_rates.db",
+    "log": "Logs/automation.log"
+  },
+  "schedule": {
+    "daily_time": "09:00"
+  }
+}

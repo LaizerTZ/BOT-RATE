@@ -1,0 +1,8 @@
+#line is a package name and the lowest version that works
+requests>=2.34
+pandas>=3.0
+matplotlib>=3.11
+seaborn>=0.13
+python-dotenv>=1.0 #reads the .env file
+schedule>=1.2 #runs the daily job.
+ipykernel #lets VS Code run the notebook with this environment.
